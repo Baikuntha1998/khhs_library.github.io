@@ -5,7 +5,7 @@
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 ##  Live Demo
-**[https://https://india-web.github.io/khss_library/](https://https://india-web.github.io/khss_library/)**
+**[https://india-web.github.io/khss_library/](https://india-web.github.io/khss_library/)**
 
 >  ## **Note**: This is a secure system. You need login credentials to access. Contact college library staff for access.
 ## System Overview
